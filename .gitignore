@@ -1,3 +1,6 @@
 # Project exclude paths
 /dist/
 /node_modules/
+.idea
+.idea/vcs.xml
+package-lock.json
